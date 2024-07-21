@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheSushi22
 - 👀 I’m interested in learning how to code (duh)
-- 🌱 I’m currently learning C++ and C sharp
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on nothing, I'm to stupid to trust
 - 📫 How to reach me: Don't
 
